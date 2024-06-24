@@ -1,10 +1,5 @@
-### Hi there 👋
-
-**Vaish1401/vaish1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently doing my graduation in B.Tech deom Computer Science.
-- 🌱 I’m currently learning Web Development.
+This is VAISHNAVI SINGH.
+- 🔭 I completed my graduation in B.Tech from Computer Science and Engineering.
+- 🌱 I’m currently learning and developing projects on Full-Stack Web Development.
 - 📫 How to reach me: www.linkedin.com/in/vaishnavi-singh-576300200
-- 😄 Pronouns: she/her
+- 😄 Email: vaishnavisingh1401@gmail.com
